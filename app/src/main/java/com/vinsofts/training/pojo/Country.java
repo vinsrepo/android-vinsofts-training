@@ -9,6 +9,12 @@ public class Country {
     private String nameVi;
     private String nameEn;
 
+    public Country(int image, String nameVi, String nameEn) {
+        this.image = image;
+        this.nameVi = nameVi;
+        this.nameEn = nameEn;
+    }
+
     public int getImage() {
         return image;
     }

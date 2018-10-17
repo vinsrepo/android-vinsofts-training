@@ -37,6 +37,7 @@ public class LessonActivity extends AppCompatActivity {
                 break;
 
             case R.id.btnUnit2:
+                CountryActivity.start(this);
                 break;
 
             case R.id.btnUnit3:
