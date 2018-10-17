@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VinsoftsTraining</string>
+    <string name="label_unit_1">Unit 1: Activity &amp; View</string>
+    <string name="label_unit_2">Unit 2: List</string>
+    <string name="label_unit_3">Unit 3</string>
+    <string name="label_sign_in">Đăng nhập</string>
+    <string name="label_register">Đăng ký</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="label_forgot_password">Quên mật khẩu</string>
+    <string name="label_login_with">Đăng nhập bằng</string>
+</resources>
